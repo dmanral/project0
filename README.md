@@ -1,2 +1,3 @@
-# project0
-Exd python and javascript course first project.
+# Project 0
+
+Web Programming with Python and JavaScript
